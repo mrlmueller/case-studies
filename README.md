@@ -1,6 +1,6 @@
 # Case Studies
 
-Drei Projekte, jeweils mit dem Problem, den Entscheidungen und ihren Gründen, dem, was schiefging, und den Belegen im jeweiligen Repository.
+Drei Projekte. Zu jedem steht hier, welches Problem es lösen sollte, welche Entscheidungen ich getroffen habe und warum, was schiefging und wo im Repository die Belege dafür liegen.
 
 | Case Study | Was | Code |
 |---|---|---|
